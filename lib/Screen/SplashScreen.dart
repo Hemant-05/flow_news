@@ -1,6 +1,8 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
 
+import 'HomeScreen.dart';
+
 // ignore: use_key_in_widget_constructors
 class SplashScreen extends StatefulWidget {
   @override
